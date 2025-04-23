@@ -1,0 +1,17 @@
+.input{
+  height: 5vh;
+  width: 20vw;
+  border-radius:15px;
+ 
+  padding: 10px;
+}
+.save{
+    height: 5vh;
+    width: 10vw;
+    border-radius:15px;
+    padding: 10px;
+    background-color: pink;
+    font-family: "Winky Sans", sans-serif;
+    cursor: pointer
+
+}

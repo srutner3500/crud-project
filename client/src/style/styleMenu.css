@@ -1,0 +1,15 @@
+.menu{
+
+ color: black;  
+ text-decoration: none;
+ font-size: 20px;
+ font-family: "Winky Sans", sans-serif;
+ text-align: center;
+}
+.menu.active {
+    color: white;
+
+}
+
+
+  

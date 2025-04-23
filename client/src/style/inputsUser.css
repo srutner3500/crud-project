@@ -1,0 +1,17 @@
+.inputU{
+    height: 3vh;
+    width: 20vw;
+    border-radius:15px;
+   
+    padding: 10px;
+  }
+  .saveU{
+      height: 5vh;
+      width: 10vw;
+      border-radius:15px;
+      padding: 10px;
+      background-color: pink;
+      font-family: "Winky Sans", sans-serif;
+      cursor: pointer
+  
+  }
